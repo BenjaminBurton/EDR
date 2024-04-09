@@ -5,7 +5,7 @@ I'll be Using Lima Charlie and Sliver as a Command and Control (C2) server to at
 
 | Virtual Machine                                            | Associated Role                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
-| Ubuntu w/ LimaCharlie && Sliver                          |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/blob/main/src/kali-linux/README.md">attack</a>|
+| Ubuntu w/ LimaCharlie && Sliver                          |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/blob/main/src/kali-linux/README.md">SOC Analyst</a>|
 
 
 ```js
