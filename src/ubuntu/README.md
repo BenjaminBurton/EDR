@@ -1,7 +1,7 @@
 # Ubuntu Config
 
 
-### Set a static IP during the install (IPv4 Manual Config)
+# Set a static IP during the install (IPv4 Manual Config)
 		Set a username && password
 		name: user
 		server name: attack
@@ -23,7 +23,7 @@
 		if you see the icmp 3 times your good to go
 
 
-#### Setup Attack System (Linux VM)
+# Setup Attack System (Linux VM)
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-#### Generate C2 Payload
+# Generate C2 Payload
 
 
 	On the Linux Terminal Change into Root if not already
@@ -129,4 +129,4 @@
 	
 	
 	
-#### Start C2 Command and Control Session
+# Start C2 Command and Control Session
