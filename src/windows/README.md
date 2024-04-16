@@ -1,6 +1,6 @@
-## Windows Config
+# Windows Config
 
-#### Disable Windows Defender (Windows 11 is tricky)
+# Disable Windows Defender (Windows 11 is tricky)
 		
 		1. Disable Tamper Protection
 		   
@@ -62,7 +62,7 @@
 		   e. The System will restart back into the normal desktop
 
 
-### Prevent VM from going into standby mode
+# Prevent VM from going into standby mode
 	
 	Pull up a Admin Command Prompt and Type the following 
 	command to prevent the VM from going into sleep or 
@@ -75,7 +75,7 @@
 		powercfg /change hibernate-timeout-ac 0
 		powercfg /change hibernate-timeout-dc 0
 
-#### Install Sysmon in Windows VM (for Granular Telemetry)
+## Install Sysmon in Windows VM (for Granular Telemetry)
 	
 	Launch Admin PowerShell console
 		a. type powershell in search bar
@@ -120,9 +120,9 @@
 	-MaxEvents 10
 
 
-### Install LimaCharlie EDR on Windows VM
+# Install LimaCharlie EDR on Windows VM
 
-#### Create LimaCharlie Account & Login
+## Create LimaCharlie Account & Login
 
 	
 	Login to LimaCharlie & Create an Organization
@@ -173,7 +173,7 @@
 	
 	
 
-#### Configure LimaCharlie 
+# Configure LimaCharlie 
 
 	To ship event logs alongside its own EDR telemetry
 
