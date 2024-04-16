@@ -30,9 +30,10 @@
 		3. Permanently Disable Defender
 		   
 		   a. In the admin Command Prompt paste or type this command
-			
+```powershell			
 			REG ADD "hklm\software\policies\microsoft\windows 
 			defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
+```
 		
 		4. Boot into Safe Mode to disable ALL Defender services
 		   
