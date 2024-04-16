@@ -1,7 +1,7 @@
-## Ubuntu Config
+# Ubuntu Config
 
 
-#### Set a static IP during the install (IPv4 Manual Config)
+### Set a static IP during the install (IPv4 Manual Config)
 		Set a username && password
 		name: user
 		server name: attack

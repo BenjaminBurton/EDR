@@ -1,5 +1,4 @@
-## Windows 11 Config
-
+## Windows Config
 
 #### Disable Windows Defender (Windows 11 is tricky)
 		
